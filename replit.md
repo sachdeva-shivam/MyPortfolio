@@ -82,8 +82,20 @@ This is a modern, responsive professional portfolio application built for Shivam
 - **Environment**: Supports both development and production workflows
 - **Asset Handling**: Resume PDF stored in `attached_assets` directory
 
+## Recent Changes
+- ✓ Built complete professional portfolio website based on resume
+- ✓ Implemented hero section with professional photo and contact info
+- ✓ Created interactive skills section with progress bars and categories
+- ✓ Built experience timeline showcasing achievements at Rakuten and Vidhyut Control
+- ✓ Added education section highlighting AI/ML program and B.Tech
+- ✓ Implemented certifications and awards showcase
+- ✓ Created functional contact form with validation
+- ✓ Set up resume download functionality with PDF serving
+- ✓ Applied responsive design with Framer Motion animations
+- ✓ Generated comprehensive source code documentation
+
 ## Changelog
-- June 24, 2025. Initial setup
+- June 24, 2025. Portfolio website completed with all sections and functionality
 
 ## User Preferences
 
