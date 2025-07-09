@@ -30,7 +30,8 @@ export default function Hero() {
           {/* Professional Photo */}
           <div className="w-48 h-48 mx-auto mb-8 rounded-full overflow-hidden border-4 border-white/20 shadow-2xl">
             <img
-              src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&h=400"
+              src="/images/shivam.jpeg"
+              // src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&h=400"
               alt="Shivam Sachdeva - Professional Photo"
               className="w-full h-full object-cover"
             />
@@ -65,8 +66,7 @@ export default function Hero() {
             </Button>
             <Button
               onClick={scrollToContact}
-              variant="outline"
-              className="border-2 border-white text-white hover:bg-white hover:text-primary px-8 py-3 font-semibold"
+              className="bg-white text-primary hover:bg-blue-50 px-8 py-3 font-semibold shadow-lg"
             >
               Get In Touch
             </Button>
@@ -74,7 +74,7 @@ export default function Hero() {
 
           <div className="flex justify-center space-x-6">
             <a
-              href="https://linkedin.com/in/shivam-sachdeva"
+              href="https://www.linkedin.com/in/ershivamsachdeva/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white hover:text-blue-200 transition-colors"
