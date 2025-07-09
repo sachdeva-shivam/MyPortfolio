@@ -78,13 +78,13 @@ export default function Contact() {
       icon: Linkedin,
       title: "LinkedIn",
       value: "Connect on LinkedIn",
-      href: "https://linkedin.com/in/shivam-sachdeva",
+      href: "https://www.linkedin.com/in/ershivamsachdeva/",
     },
     {
       icon: Github,
       title: "GitHub",
       value: "View Projects",
-      href: "https://github.com/shivam-sachdeva",
+      href: "https://github.com/sachdeva-shivam/",
     },
   ];
 

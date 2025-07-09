@@ -82,7 +82,7 @@ export default function Hero() {
               <Linkedin className="h-8 w-8" />
             </a>
             <a
-              href="https://github.com/shivam-sachdeva"
+              href="https://github.com/sachdeva-shivam/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white hover:text-blue-200 transition-colors"
